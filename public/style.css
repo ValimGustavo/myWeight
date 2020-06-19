@@ -1,0 +1,12 @@
+﻿#container {
+    display: block;
+    margin: auto;
+    width: 70vw;
+    height: 70vh;
+}
+label, input, button {
+    text-align: center;
+    display: block;
+    margin: 5px auto;
+    width: auto;
+}
